@@ -7,7 +7,7 @@ compiled_package_info:
     sui: "0000000000000000000000000000000000000000000000000000000000000002"
     sui_system: "0000000000000000000000000000000000000000000000000000000000000003"
     william: "0000000000000000000000000000000000000000000000000000000000000000"
-  source_digest: E5EAB5794372F1B64A00E4E160D031B5B3EF01CDD0F76078D4FA38FF0BFC0F1A
+  source_digest: 97E9B33554354A15A67B18375BF5DCD791DAD17D0E1BFFE769FBCAEAAB892398
   build_flags:
     dev_mode: false
     test_mode: false
@@ -15,7 +15,7 @@ compiled_package_info:
     save_disassembly: false
     install_dir: ~
     force_recompilation: false
-    lock_file: ".\\Move.lock"
+    lock_file: "./Move.lock"
     fetch_deps_only: false
     skip_fetch_latest_git_deps: false
     default_flavor: sui
@@ -35,7 +35,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/MystenLabs/sui.git"
-              git_rev: 2cde80b5766b0bc2073908e10f6e3c81c93fd691
+              git_rev: 9a4d4016ba66c646c76c4b8d54fa9e767f240ab1
               subdir: crates/sui-framework/packages/bridge
           subst: ~
           digest: ~
@@ -45,7 +45,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/MystenLabs/sui.git"
-              git_rev: 2cde80b5766b0bc2073908e10f6e3c81c93fd691
+              git_rev: 9a4d4016ba66c646c76c4b8d54fa9e767f240ab1
               subdir: crates/sui-framework/packages/move-stdlib
           subst: ~
           digest: ~
@@ -55,7 +55,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/MystenLabs/sui.git"
-              git_rev: 2cde80b5766b0bc2073908e10f6e3c81c93fd691
+              git_rev: 9a4d4016ba66c646c76c4b8d54fa9e767f240ab1
               subdir: crates/sui-framework/packages/sui-framework
           subst: ~
           digest: ~
@@ -65,7 +65,7 @@ compiled_package_info:
           kind:
             Git:
               git_url: "https://github.com/MystenLabs/sui.git"
-              git_rev: 2cde80b5766b0bc2073908e10f6e3c81c93fd691
+              git_rev: 9a4d4016ba66c646c76c4b8d54fa9e767f240ab1
               subdir: crates/sui-framework/packages/sui-system
           subst: ~
           digest: ~
